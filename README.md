@@ -24,14 +24,9 @@ Naïve Bayes Accuracy: 92.9825
 LSTM Accuracy: 98.2456
 Stacked Model Accuracy: 98.24561403508771
 
-              precision    recall  f1-score   support
+            
+![image](https://github.com/user-attachments/assets/cde874ff-0ac3-4d36-9df6-8f6cc7a61882)
 
-           0       1.00      0.97      0.98       643
-           1       0.97      1.00      0.98       554
-
-    accuracy                           0.98      1197
-   macro avg       0.98      0.98      0.98      1197
-weighted avg       0.98      0.98      0.98      1197
 
 Sample Outputs - > 
 1. news = "Economists Predict Steady Growth for the Global Economy in the Next Quarter"
